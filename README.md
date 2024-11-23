@@ -1,0 +1,1 @@
+This program performs a secure, irreversible cleanup by filling all empty spaces with zeros, ensuring that sensitive data is thoroughly erased and cannot be recovered. It effectively wipes memory or files, providing enhanced security for data deletion.
